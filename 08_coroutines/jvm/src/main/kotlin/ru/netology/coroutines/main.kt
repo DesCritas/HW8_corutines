@@ -153,7 +153,7 @@ fun main() {
             }
         }
         val result = tasks.awaitAll()
-        println("Результат:$result")
+        println("Result:$result")
     }
 }
 
